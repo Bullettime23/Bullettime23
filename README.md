@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 😁
+
+I'm a Frontend Developer, currently working in  [Datagile](https://datagile.ru/)
+
+You can contact me via E-mail [letsgofrontend@gmail.com](letsgofrontend@gmail.com)
+
+My education: Associate in Computer Science
 
 <!--
 **Bullettime23/Bullettime23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
