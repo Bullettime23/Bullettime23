@@ -2,7 +2,8 @@
 
 I'm a Frontend Developer, currently working in  [Datagile](https://datagile.ru/)
 
-You can contact me via E-mail [letsgofrontend@gmail.com](letsgofrontend@gmail.com)
+You can visit my [Site](https://lev-medvedev.xyz/) 
+Or contact me via E-mail [letsgofrontend@gmail.com](letsgofrontend@gmail.com)
 
 My education: Associate in Computer Science
 
