@@ -1,6 +1,6 @@
 ## Hello! 😁
 
-I'm a Frontend Developer, currently working in  [Datagile](https://datagile.ru/)
+I'm Lev! I'm a Game developer and a former Frontend.
 
 You can visit my [Site](https://lev-medvedev.xyz/) 
 Or contact me via E-mail [letsgofrontend@gmail.com](letsgofrontend@gmail.com)
