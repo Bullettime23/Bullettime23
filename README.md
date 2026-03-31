@@ -3,7 +3,7 @@
 I'm Lev! I'm a Game developer and a former Frontend.
 
 You can visit my [Site](https://lev-medvedev.xyz/) 
-Or contact me via E-mail [letsgofrontend@gmail.com](letsgofrontend@gmail.com)
+Or contact me via E-mail [lev-medvedev.lvm@gmail.com](lev-medvedev.lvm@gmail.com)
 
 My education: Associate in Computer Science
 
